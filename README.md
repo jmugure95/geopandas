@@ -1,5 +1,5 @@
 # GeoPandas
-A Jupyter Notebook analysis of using Pandas to analyze Locational GIS data
+A Jupyter Notebook analysis and visualization of GIS locational data using GeoPandas
 
 ## Requirements
 - Gepandas
